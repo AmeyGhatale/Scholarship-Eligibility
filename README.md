@@ -10,7 +10,7 @@ FUNCTIONALITIES DEVELOPED:
 
 STUDENTS API:
 1. Add Student (Path = POST "http://localhost:8080/student/addStudent")
-2. Get Student Eligibility By Roll Number (Path = GET "http://localhost:8080/student/getStudentE1igibi1ity/{rollNumber}") 
+2. Get Student Eligibility By Roll Number (Path = GET "http://localhost:8080/student/getStudentEligibility/{rollNumber}") 
 3. Check All Student Eligibility (Path = GET "http://localhost:8080/student/checkAllStudentsEligibility")
 
 FILE API:
